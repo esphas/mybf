@@ -1,0 +1,16 @@
+{
+  "name": "mybf",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.1",
+    "gm": "^1.23.1",
+    "tempy": "^0.2.1"
+  }
+}
